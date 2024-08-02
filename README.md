@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <-----------------------------------------------------------------------------------YOOYYOOOO------------------------------------------------------------------------------------------------------------------------------->
-# Garima Singh 🌐
+<!-----# Garima Singh 🌐
 ### Web Developer | Tech Enthusiast
 
 ![Garima's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
@@ -92,3 +92,4 @@ A brief description of the project, its purpose, and the technologies used.
 ---
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!*
+--------->
