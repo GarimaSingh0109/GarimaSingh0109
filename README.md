@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 # Garima Singh 🌐
 ### Web Developer | Tech Enthusiast
 
-![Garima's Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile!)
+![Garima's Banner](https://media.licdn.com/dms/image/v2/D4D16AQFSZ6OgZIy4Jw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699613311813?e=1729123200&v=beta&t=GYgp8QR0ID3nhSSd9jAXyMsRiieLuhTg-mAGs7Ozh-I)
 
 ---
 
