@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<!--
+
 # Garima Singh 🌐
 ### Web Developer | Tech Enthusiast
 
@@ -46,6 +46,7 @@ Hello! I'm Garima Singh, a passionate web developer with a love for creating int
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+<!--
 
 ## 🚀 Projects
 
@@ -62,7 +63,7 @@ A brief description of the project, its purpose, and the technologies used.
 - **Achievement 1**: Description of the achievement.
 - **Achievement 2**: Description of the achievement.
 
----
+--->
 
 ## ✨ Fun Facts
 
@@ -92,4 +93,4 @@ A brief description of the project, its purpose, and the technologies used.
 ---
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!*
---------->
+-----
