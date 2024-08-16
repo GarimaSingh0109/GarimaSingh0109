@@ -9,16 +9,6 @@
 GarimaSingh0109/GarimaSingh0109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## GSSOC(24) Badges 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
-
 
 
 # Garima Singh 🌐
@@ -31,6 +21,11 @@ You can click the Preview link to take a look at your changes.
 ## 👩‍💻 About Me
 
 Hello! I'm Garima Singh, a passionate web developer with a love for creating interactive and user-friendly web applications. I enjoy exploring new technologies and continuously improving my skills.
+- 👋 Hi, I’m @GarimaSingh0109
+- 👀 I’m interested in Programming
+- 🌱 I’m a passionate web developer with a love for creating interactive and user-friendly web applications
+- 💞️ I’m looking to collaborate on Github
+- 📫 I enjoy exploring new technologies and continuously improving my skills.
 
 ---
 
@@ -44,6 +39,18 @@ Hello! I'm Garima Singh, a passionate web developer with a love for creating int
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## GSSOC(24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 ---
 <!--
