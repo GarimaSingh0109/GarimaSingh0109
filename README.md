@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @GarimaSingh0109
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me through my linkedin profile - www.linkedin.com/in/garima-singh-279014264
-- 📫 How to contact me  - garimasingh11203@gmail.com
+
 
 <!---
 GarimaSingh0109/GarimaSingh0109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +21,8 @@ Hello! I'm Garima Singh, a passionate web developer with a love for creating int
 - 🌱 I’m a passionate web developer with a love for creating interactive and user-friendly web applications
 - 💞️ I’m looking to collaborate on Github
 - 📫 I enjoy exploring new technologies and continuously improving my skills.
+- 📫 How to reach me through my linkedin profile - www.linkedin.com/in/garima-singh-279014264
+- 📫 How to contact me  - garimasingh11203@gmail.com
 
 ---
 
