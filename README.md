@@ -98,7 +98,7 @@ A brief description of the project, its purpose, and the technologies used.
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's build something amazing together!*
 -----
 --->
---->
+
 # 👋 Hi, I'm Garima Singh!
 
 🌟 **Welcome to my GitHub profile!** I am a passionate developer and enthusiastic contributor to open-source projects. I have experience in web development, data structures, algorithms, and various programming languages. Let's connect and collaborate!
