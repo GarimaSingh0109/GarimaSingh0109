@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garimasingh11203@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarimaSingh0109)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/GarimaSingh)
-[![Topmate](https://img.shields.io/badge/Topmate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://topmate.io/Garima_Singh8)
+[![Topmate](https://img.shields.io/badge/Topmate-0077B5?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/Garima_Singh8)
 
 ---
 
