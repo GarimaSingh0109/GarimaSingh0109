@@ -6,23 +6,30 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/garima-singh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:garimasingh11203@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/GarimaSingh0109" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/GarimaSingh" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://topmate.io/Garima_Singh8" target="_blank">
-    <img src="https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate">
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/garima-singh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>
+
+<a href="mailto:garimasingh11203@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>
+
+<a href="https://github.com/GarimaSingh0109" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>
+
+<a href="https://leetcode.com/GarimaSingh" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>
+
+<a href="https://topmate.io/Garima_Singh8" target="_blank">
+  <img src="https://img.shields.io/badge/Topmate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Topmate" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+</a>
+
+</div>
+
 
 ---
 
