@@ -110,12 +110,12 @@
 
 ---
 
-### 🖥️ Tech Stack
+<!--### 🖥️ Tech Stack
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaSingh0109&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaSingh0109&layout=compact&theme=radical)
 
----
+--->
 
 ## 🌍 Let's Connect!
 
