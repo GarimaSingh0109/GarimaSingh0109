@@ -36,7 +36,7 @@
 ## 🏆 Achievements
 
 - **GirlScript Summer of Code '24**  
-  - Contributor, ranked **258** among **2400** contributors  
+  - Contributor, ranked **258** among **27000** participants  
   - Worked on frontend for various projects  
   - Selected as Core Team member for the next GSSoC  
 
