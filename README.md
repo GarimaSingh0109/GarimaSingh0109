@@ -1,93 +1,81 @@
-<div align="center">
+<h1 align="center">Hi, I'm Garima 👋</h1>
+<h3 align="center">Freelance Excel Data Analyst — turning messy spreadsheets into decisions</h3>
 
-# `fx` Hi, I'm Garima 👋
+<p align="center">
+  <code>fx  =IFERROR("Clean data → clear dashboards", "Still cleaning...")</code>
+</p>
 
-### Freelance Excel Data Analyst — turning messy spreadsheets into dashboards people actually open.
+<p align="center">
+  <a href="mailto:insightlabwithgarima@gmail.com"><img src="https://img.shields.io/badge/Email-insightlabwithgarima%40gmail.com-1F6F54?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/GarimaSingh0109"><img src="https://img.shields.io/badge/GitHub-GarimaSingh0109-14181C?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://youtube.com/@datainsightwithgarima?si=Z7a_DhOBb25ygzA5"><img src="https://img.shields.io/badge/YouTube-Data%20Insight%20with%20Garima-E1573B?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-<code>="Clean data." & "Clear dashboards." & "Fast turnaround."</code>
+---
 
-</div>
+### `A1`  &nbsp;About me
 
-<br>
+I clean messy datasets and build Excel dashboards for small businesses and busy founders — no BI software to install, just a file you can open and understand in five minutes.
 
-<div align="center">
+New to freelancing, not new to the tool. I've spent enough hours in PivotTables and Power Query to know where data usually breaks — and I'm building this portfolio one clean dataset at a time.
 
-[![Gmail](https://img.shields.io/badge/insightlabwithgarima%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:insightlabwithgarima@gmail.com)
-[![GitHub](https://img.shields.io/badge/GarimaSingh0109-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GarimaSingh0109)
-[![YouTube](https://img.shields.io/badge/Data%20Insight%20with%20Garima-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datainsightwithgarima?si=Z7a_DhOBb25ygzA5)
+```text
+=CONCATENATE("Currently learning: ", "DAX, Power Pivot & dashboard storytelling")
+```
 
-</div>
+---
 
-<br>
+### `B1`  &nbsp;What I do
 
-## `A1` About me
+| Service | Price | Turnaround | What you get |
+|---|---|---|---|
+| 🧹 **Data Cleaning** | ₹999 | 24–48 hrs | Duplicates & blanks removed, formats fixed, columns standardized, delivered as a ready-to-use `.xlsx` |
+| 📈 **Dashboard Design** | ₹5,000 | 4–6 days | KPI cards, slicers, multi-tab layout (Overview / Time Analysis / Insights), written recommendations, 1 revision round + walkthrough call |
 
-I'm a data analyst who lives inside spreadsheets — cleaning messy exports, building PivotTable-powered dashboards, and writing the recommendations that come *after* the chart. I freelance on the side and post what I learn on YouTube.
+> 💡 **Bundle & save** — book both for one dataset and the ₹999 cleaning fee is on me.
 
-No BI software required on your end. Just a file you already know how to open.
+---
 
-<br>
+### `C1`  &nbsp;Featured projects
 
-## `B1` What I do
+| Project | What it explores |
+|---|---|
+| **Streaming Subscription Dashboard** | Churn, payment success & revenue by plan — yearly subscribers retain far better than monthly |
+| **Pizza Sales Dashboard** | 3-tab report on best/worst sellers, peak order hours & weekday demand patterns |
+| **Video Game Sales Analytics** | Global sales by publisher, genre, console & region across 50k+ titles |
 
-| Cell | Service | Price | Turnaround |
-|:---:|---|:---:|:---:|
-| `B1` | 🧹 **Data Cleaning** — duplicates, formatting, missing values, sorted with Power Query | **₹999** | 24–48 hrs |
-| `B2` | 📊 **Dashboard Design** — KPIs, slicers, multi-tab layout, built with PivotTables & PivotCharts | **₹5,000** | 4–6 days |
+🔎 Full workbooks and source files live on [my GitHub](https://github.com/GarimaSingh0109) — pin your favorite repos above this line once they're up.
 
-> 💡 Book both together on the same dataset and the ₹999 cleaning fee is on me.
+---
 
-<br>
+### `D1`  &nbsp;Built with
 
-## `C1` Featured projects
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_Query-1F6F54?style=flat-square">
+  <img src="https://img.shields.io/badge/PivotTables-E1573B?style=flat-square">
+  <img src="https://img.shields.io/badge/DAX-F2B705?style=flat-square&logoColor=black">
+</p>
 
-| Sheet | Project | Focus |
-|:---:|---|---|
-| `1` | **Streaming Subscription Dashboard** | Churn, payment success & revenue by plan |
-| `2` | **Pizza Sales Dashboard** | 3-tab report — Overview · Time Analysis · Insights |
-| `3` | **Video Game Sales Analytics** | Global sales across 50k+ titles by publisher, genre & region |
+---
 
-<div align="center">
+### `E1`  &nbsp;Watch me work
 
-[![View Repositories](https://img.shields.io/badge/View%20all%20projects-1F6F54?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/GarimaSingh0109?tab=repositories)
+I break down real dashboards, step by step, on YouTube — from raw file to finished report.
 
-</div>
+<p>
+  <a href="https://youtube.com/@datainsightwithgarima?si=Z7a_DhOBb25ygzA5"><img src="https://img.shields.io/badge/▶_Subscribe-Data%20Insight%20with%20Garima-E1573B?style=for-the-badge"></a>
+</p>
 
-<br>
+---
 
-## `D1` Tools I work in
+### `F1`  &nbsp;Let's connect
 
-<div align="center">
+Have a dataset that needs cleaning up, or a story it should be telling? Send it over — I usually reply within a day.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-2C7A3C?style=for-the-badge&logo=powerquery&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-0F7B4D?style=for-the-badge&logo=googlesheets&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2B705?style=for-the-badge&logo=databricks&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <a href="mailto:insightlabwithgarima@gmail.com"><img src="https://img.shields.io/badge/✉️_Email_me-1F6F54?style=for-the-badge"></a>
+  <a href="https://github.com/GarimaSingh0109"><img src="https://img.shields.io/badge/🗂_View_my_work-14181C?style=for-the-badge"></a>
+</p>
 
-</div>
-
-<br>
-
-## `E1` Why work with me
-
-- 🎯 **Direct attention** — you work with me, not a rotating team
-- 💸 **Fair pricing** — freelancer rates, agency-quality output
-- ⚡ **Fast replies** — no account managers in between
-- 📚 **Current skills** — techniques I actively teach on YouTube
-
-<br>
-
-## `F1` Let's talk
-
-<div align="center">
-
-[![Hire Me](https://img.shields.io/badge/Hire%20me-1F6F54?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:insightlabwithgarima@gmail.com)
-[![Watch Tutorials](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@datainsightwithgarima?si=Z7a_DhOBb25ygzA5)
-
-<br><br>
-
-<code>=IF(YourData="messy", HireMe(), "🎉 already clean!")</code>
-
-</div>
+<p align="center"><sub><code>=TODAY() &nbsp;→ open for new projects</code></sub></p>
